@@ -1,0 +1,56 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "authenticationType": "oauth2",
+    "baseName": "entandoQeBundle01",
+    "blueprints": [
+      {
+        "name": "generator-jhipster-entando",
+        "version": "6.3.2"
+      }
+    ],
+    "buildTool": "maven",
+    "bundleName": "entandoqebundle01-bundle",
+    "cacheProvider": "caffeine",
+    "creationTimestamp": 1646042902550,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "dockerImageOrganization": "entando",
+    "dtoSuffix": "DTO",
+    "enableGradleEnterprise": false,
+    "enableHibernateCache": false,
+    "enableSwaggerCodegen": false,
+    "enableTranslation": true,
+    "entitySuffix": "",
+    "generateMicroFrontends": "always",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "7.2.0",
+    "jwtSecretKey": "M2U4M2UxOGJjYjE4MzViMmYyYTRhZmM4YWY1MGFiMGU4OWI0MDIyNGU4OWY4NTUyMzA3YjhhMmEwNjQ2OTFmOTBhNGQ2YTIxOGQzNjM0ZWFhZjA5MDFkOWIwNjQyY2QxY2IxNWM5ODg2M2I0OWU1OTc1YzEyYWZkYTgyNTg4MmQ=",
+    "languages": ["it", "en"],
+    "messageBroker": false,
+    "microserviceDependencies": "entando",
+    "nativeLanguage": "it",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-entando",
+        "version": "6.3.2"
+      }
+    ],
+    "packageName": "org.entando.entandoqebundle01",
+    "pages": [],
+    "prodDatabaseType": "postgresql",
+    "reactive": false,
+    "searchEngine": false,
+    "serverPort": "8081",
+    "serverSideOptions": [],
+    "serviceDiscoveryType": false,
+    "skipCheckLengthOfIdentifier": false,
+    "skipClient": true,
+    "skipFakeData": false,
+    "skipServer": false,
+    "skipUserManagement": true,
+    "testFrameworks": ["cypress"],
+    "websocket": false,
+    "withAdminUi": false
+  }
+}

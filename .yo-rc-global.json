@@ -1,0 +1,12 @@
+{
+  "generator-jhipster:7.7.0": {
+    "promptValues": {
+      "nativeLanguage": "it"
+    }
+  },
+  "generator-jhipster-entando:6.3.2": {
+    "promptValues": {
+      "packageName": "org.entando.entandoqebundle01"
+    }
+  }
+}
