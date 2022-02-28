@@ -1,0 +1,21 @@
+{
+  "microserviceName": "entandoQeBundle01",
+  "clientRootFolder": "entandoQeBundle01",
+  "databaseType": "sql",
+  "fields": [
+    {
+      "fieldName": "room",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "service": "no",
+  "readOnly": false,
+  "pagination": "no",
+  "name": "Conference",
+  "changelogDate": "20220228101538"
+}

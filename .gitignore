@@ -168,3 +168,4 @@ bundle/
 # Keycloak DB files
 ######################
 /src/main/docker/keycloak-db/
+bundle

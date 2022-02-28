@@ -51,6 +51,9 @@
     "skipUserManagement": true,
     "testFrameworks": ["cypress"],
     "websocket": false,
-    "withAdminUi": false
+    "withAdminUi": false,
+    "lastLiquibaseTimestamp": 1646043338000,
+    "entities": ["Conference"],
+    "generateMfeForEntity": true
   }
 }
